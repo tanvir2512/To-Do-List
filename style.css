@@ -1,0 +1,21 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'Poppins',sans-serif;
+    box-sizing: border-box;
+}
+.mainblock{
+    width: 100%;
+    min-height: 100vh;
+    background: linear-gradient(135deg, #57C84D,#2EB62C);
+    padding: 10px;
+}
+.ToDoList{
+    width: 100%;
+    max-width: 500px;
+    margin: 100px auto 30px;
+    background-color: #fff;
+    padding: 50px 20px 60px;
+    border-radius: 20px;
+    
+}
