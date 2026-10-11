@@ -7,8 +7,9 @@
 .mainblock{
     width: 100%;
     min-height: 100vh;
-    background: linear-gradient(135deg,#57C84D, #175616);
+    background: linear-gradient(135deg,#1092fc, #266497);
     padding: 10px;
+
     
 }
 .ToDoList{
@@ -18,6 +19,7 @@
     background-color: #fff;
     padding: 50px 20px 60px;
     border-radius: 20px;
+    box-shadow: 0 0 40px 15px #16dbf9; 
     
 }
 .ToDoList h1 {
